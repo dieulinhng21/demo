@@ -40,7 +40,7 @@ $questions = array(
             <td><input type="radio" name="q2" value="q2a"> A. Answer A </td>
             <td><input type="radio" name="q2" value="q2b"> B. Answer B </td>
             <td><input type="radio" name="q2" value="q2c"> C. Answer C </td>
-            <td><input type="radio" name="q2" value="q2d"> D. Answer D </td>
+            <td><input type="radio" name="q2" value="q2d"> D. Ans D </td>
             </tr>
 
         </form>
