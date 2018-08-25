@@ -35,14 +35,6 @@ $questions = array(
             <td><input type="radio" name="q1" value="q1d"> D. Strawberry tea </td>
             </tr>
 
-            <td id="ques2" colspan="4">Câu 2: This is question 2 </td>
-            <tr>
-            <td><input type="radio" name="q2" value="q2a"> A. Answer A </td>
-            <td><input type="radio" name="q2" value="q2b"> B. Answer B </td>
-            <td><input type="radio" name="q2" value="q2c"> C. Answer C </td>
-            <td><input type="radio" name="q2" value="q2d"> D. Ans D </td>
-            </tr>
-
         </form>
         </table>
     </body>
